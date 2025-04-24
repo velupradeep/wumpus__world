@@ -140,10 +140,10 @@ while(player):
 
 
 
-<hr>
-<h1>Sample Input and Output:</h1>
-<hr>
-![277158772-8696111a-a4a7-47cb-ba4b-43a4ef88573f](https://github.com/user-attachments/assets/693d5a2d-ead1-431b-84c2-951d9ac59274)
+## Sample Input and Output:
+![277158772-8696111a-a4a7-47cb-ba4b-43a4ef88573f](https://github.com/user-attachments/assets/88d797cd-8956-42a3-a70b-7b3b25eaceec)
+
+
 
 ## OUTPUT:
 ![378270412-b63133b8-970a-4e43-8ef7-c8c1f4251e42](https://github.com/user-attachments/assets/0fca12f7-9e24-4f68-8cd3-1fc49e44f2fa)
